@@ -1,0 +1,26 @@
+.navbarel {
+    margin: 0px;
+   font-family: Helvetica Neue,Arial,sans-serif;
+   border-radius:5px;
+   border:1px, red
+}
+
+
+
+    .navbarel:hover {
+        
+        border: 2px solid white;
+    }
+
+.navbar {
+   justify-content:center;
+   margin:0 auto;
+    
+}
+
+.navareli {
+    margin-left:150px;
+    font-family: Helvetica Neue,Arial,sans-serif;
+    
+}
+   
