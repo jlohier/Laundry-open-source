@@ -1,0 +1,10 @@
+
+// color to use for nav
+#0089ff
+#6a1ab4
+#1a3bb4
+#180c7ee3
+#ba0b64
+
+//color to use for hero area
+background: #9cecfb
